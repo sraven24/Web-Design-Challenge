@@ -7,3 +7,8 @@ dedicated to the viewing the data used to build them.
 # Installation
 You will need access to resources and visualization folders.  The index.html page is the landing page used to view the majority of the project and should be easily 
 accessed upon opening it.
+
+# Citations
+- bootstrap link - https://getbootstrap.com/docs/4.3/getting-started/introduction/
+- bootstrap tutorial - https://www.youtube.com/watch?v=4nzI4RKwb5I&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&index=3&ab_channel=TechWithTim
+- resizing images https://imagekit.io/blog/how-to-resize-image-in-html/
